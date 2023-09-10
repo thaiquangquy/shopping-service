@@ -3,3 +3,4 @@ order-service/.mvn
 inventory-service/.mvn
 .idea
 discovery-server/target
+gateway/.mvn
